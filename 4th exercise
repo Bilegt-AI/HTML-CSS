@@ -1,0 +1,72 @@
+<button class="ONE-button">
+    ONE
+</button>
+
+<style>
+    .ONE-button{
+        background-color: rgb(38, 192, 38);
+        border: none;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        color: white;
+        margin: 10px;
+        cursor: pointer;
+        transition: padding 0.15s;
+    }
+
+    .ONE-button:hover{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+</style>
+
+<button class="TWO-button">
+    TWO
+</button>
+
+<style>
+    .TWO-button{
+        background-color: rgb(38, 192, 38);
+        border: none;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        color: white;
+        margin: 10px;
+        cursor: pointer;
+        transition: padding 0.3s;
+    }
+
+    .TWO-button:active{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+</style>
+
+<button class="THREE-button">
+    THREE
+</button>
+
+<style>
+    .THREE-button{
+         background-color: rgb(38, 192, 38);
+        border: none;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        color: white;
+        margin: 10px;
+        cursor: pointer;
+        transition: padding 0.3s;
+    }
+
+    .THREE-button:hover{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+</style>
