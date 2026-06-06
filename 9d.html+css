@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .box {
+        background-color: #212121;
+        border: 3px solid white;
+        padding: 16px;
+        width: 300px;
+      }
+
+      .title {
+        color: white;
+        font-family: arial;
+        font-size: 18px;
+        font-weight: bold;
+        margin: 0 0 8px 0;
+      }
+
+      .description {
+        color: #aaaaaa;
+        font-family: arial;
+        font-size: 14px;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="box">
+      <p class="title">Install YouTube Music</p>
+      <p class="description">Add YouTube Music to your desktop for quick and easy access</p>
+    </div>
+
+  </body>
+</html>
