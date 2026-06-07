@@ -1,0 +1,48 @@
+  .Bugatti{
+                width: 200px;
+                height: 210px;
+                margin-left: 5px;
+            }
+
+            .Blue{
+                background-color: rgb(91, 91, 214);
+                width: 80px;
+                padding: 5px;
+                color: white;
+                font-family: arial;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 5px;  
+                font-size: 15px;
+                height: 20px;
+                border-radius: 5px;
+                margin-left: 5px;
+            }
+
+            .top{
+                font-family: arial;
+                margin-top: 5px;
+                margin-bottom: 0;
+                margin-left: 5px;
+            }
+
+            .middle{
+                margin-top: 7px;
+                margin-left: 5px;
+            }
+
+            .card{
+                display: inline-block;
+                border-radius: 8px;
+                overflow: hidden;
+                background: white;
+            }
+
+            .card-body{
+                border-left: 2px solid #c8c8c8;
+                border-right: 2px solid #c8c8c8;
+                border-bottom: 2px solid #c8c8c8;
+                border-radius: 0 0 8px 8px;
+                padding-bottom: 10px;
+                box-shadow: 0 3px 8px rgba(0,0,0,0.10);
+            }
