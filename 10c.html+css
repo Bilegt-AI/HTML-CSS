@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> 10c Draw The Layout</title>
+            <link rel="stylesheet" href="10c.css">
+            
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playwrite+GB+J:ital,wght@0,100..400;1,100..400&display=swap" rel="stylesheet">
+    
+    <style>
+        .first{
+            width: 300px;
+        }
+
+        .one{
+            font-family: oswald;
+            letter-spacing: 1px;
+        }
+
+        .two-two{
+            color: gray;
+            font-size: 15px;
+            font-family: arial;
+        }
+
+        .three-3{
+            color: gray;
+            font-size: 15px;
+        }
+
+        p{
+            margin-top: 0;
+            margin-bottom: 0;
+            display: block;
+            margin-left: 0px;
+        }
+
+        .tailbar{
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 15px;
+        }
+    </style>
+    
+        </head>
+    <body>
+        <div>
+            <div class="tailbar">
+                <img class="first" src="thumbnails/dont.jpeg">
+                <div>
+                    <p class="one">This is Fuc*ing Anime!</p>
+                    <p class="two-two">SuperSimpleDev</p>
+                    <p class="three-3">1.5k views &#9756; 11months ago</p>
+                </div>
+            </div>
+        </div>
+
+
+
+         <div>
+            <div class="tailbar">
+                <img class="first" src="thumbnails/levi.jpeg">
+                <div>
+                    <p class="one"> Hello It's Attach On Titan </p>
+                    <p class="two-two">SuperSimpleDev</p>
+                    <p class="three-3">5.7k views &#9756; 11months ago</p>
+                </div>
+            </div>
+        </div>
+
+
+
+         <div>
+            <div class="tailbar">
+                <img class="first" src="thumbnails/note.jpeg">
+                <div>
+                    <p class="one"> Hello, This Is Dead Note</p>
+                    <p class="two-two">SuperSimpleDev</p>
+                    <p class="three-3">1k views &#9756; 4 months ago</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
