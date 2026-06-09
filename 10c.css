@@ -1,0 +1,32 @@
+.first{
+    width: 300px;
+}
+
+.one{
+    font-family: oswald;
+    letter-spacing: 1px;
+}
+
+.two-two{
+    color: gray;
+    font-size: 15px;
+    font-family: arial;
+}
+
+.three-3{
+    color: gray;
+    font-size: 15px;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+    display: block;
+    margin-left: 0px;
+}
+
+.tailbar{
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
